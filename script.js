@@ -1,4 +1,5 @@
-rk Fado - mfado@zendesk.com
+/*
+Mark Fado - mfado@zendesk.com
 2015-01-30
 
 USAGE: Call the main function goDaffy() with no parameters. It will probably work.
